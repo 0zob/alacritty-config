@@ -1,0 +1,28 @@
+window:
+  padding:
+    x: 0 
+    y: 0
+
+shell:
+  program: /usr/bin/fish
+
+font:
+  normal:
+    family: Hack
+
+    style: Regular
+
+  
+  bold:
+    family: Hack
+    style: Bold
+
+  italic:
+    family: Hack
+    style: Italic
+
+  bold_italic:
+    family: Hack
+    style: Bold Italc
+
+  size: 9.0
